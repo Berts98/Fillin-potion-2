@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 214ab28c53118d548bb8341e7e0dcb2c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_0
+    21300002: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_1
+    21300004: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_2
+    21300006: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_3
+    21300008: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_4
+    21300010: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_5
+    21300012: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_6
+    21300014: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_7
+    21300016: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_8
+    21300018: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_9
+    21300020: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_10
+    21300022: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_11
+    21300024: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_12
+    21300026: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_13
+    21300028: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_14
+    21300030: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_15
+    21300032: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_16
+    21300034: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_17
+    21300036: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_18
+    21300038: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_19
+    21300040: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_20
+    21300042: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_21
+    21300044: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_22
+    21300046: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_23
+    21300048: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_24
+    21300050: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_25
+    21300052: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_26
+    21300054: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_27
+    21300056: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_28
+    21300058: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_29
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 294
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284dfd643f030c046882faae99e97b5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 509
+        width: 295
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150f176939a91a45a6ae63140de48bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 509
+        width: 294
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3207f890352cb4caa9587d2521dd39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_3
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 509
+        width: 295
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84afdc9326e60a440974fe0fc04cb4bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 294
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7134404a6e69c74692cdb64a71f355a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 340
+        width: 295
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b2aca764097146b235ebbbf0d5d19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_6
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 340
+        width: 294
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8087e188367f7e7478c06cc76d78325a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_7
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 340
+        width: 295
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61ca400ce9dca64b899eaf5ea3512f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 294
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbe519b58a929b4e9a826fcb8371470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 171
+        width: 295
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a11cfbfaad38a4286597f5cc0e56f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 174
+        width: 294
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34b382337ee13141903605aa3728bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_11
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 171
+        width: 295
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b99c17d4f41f114a9ae10d68ea8dd13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 294
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27cad6a4f0186a49a950ddd1c64e240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3
+        width: 295
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac748e4a2076174f9beab840057d9e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_14
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3
+        width: 294
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068955443d6d27748a43ed0afecc7786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_15
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 90
+        width: 208
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db92796601a54409d60393088ab605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_16
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 89
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e28154b81087b438aba63e0e3a583c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_17
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 46
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d1dc51462e2784c89ae395a6e052ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 46
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85330dd5bb6747e428686a2ab8d06b9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_19
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 46
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c85e4e7119bc5246a553869d07a1333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_20
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 38
+        width: 59
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fce848c29bb7c4fbda276639d4d2c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_21
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 38
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275843e63fcfa964f93bac6dc26477fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_22
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 38
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e4d9964e1b6445951842715b97576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_23
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 38
+        width: 71
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4338408a533d949a3bb8099cee425a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_24
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 21
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a755502ff6394299eee13fed8d265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_25
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 19
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b89227954568f4da98e0c32610525b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_26
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 21
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2f4fa366956b498971e7ecce45652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_27
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 18
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c962a2ba9e48a48b5d4810d47a78eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_28
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 6
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a0361d48314f488b42eb6e77735a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freedom_planet_backgrounds_pack_1_by_victinirus-d9l9uz5[1]_29
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 8
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca62638abbbd9449a49291889e5536d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2dd0abdebdfb91440b06ab79605cb8fd
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
